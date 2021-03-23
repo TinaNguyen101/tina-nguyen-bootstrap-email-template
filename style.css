@@ -1,0 +1,63 @@
+.first{
+   background-color: #423E37;
+   color: #F4F3EF;
+}
+
+.Second{
+   background-color: #F4F3EF;
+   font-size: 10pt;
+}
+.Second h5{
+  
+   font-size: 12pt;
+}
+
+
+.Third{
+}
+
+ul.list-group {
+   background-color:  #423E37;   
+}
+
+li.list-group-item {
+   color: white;
+   background-color:#423E37;
+}
+
+.hidden{
+   background-color: inherit;
+   border: none;
+}
+
+.right{
+   text-align: right;
+}
+
+.to-from p{
+   font-size: 10pt;
+   margin: 0px;
+}
+
+.main {
+   width: 100%;
+}
+
+.form-group .form-control {
+   padding-left: 2.375rem;
+}
+
+.form-group .form-control-icon {
+   position: absolute;
+   z-index: 2;
+   display: block;
+   width: 2.375rem;
+   height: 2.375rem;
+   line-height: 2.375rem;
+   text-align: center;
+   pointer-events: none;
+   color: #aaa;
+}
+
+
+
