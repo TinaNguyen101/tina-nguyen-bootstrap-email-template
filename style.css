@@ -59,5 +59,7 @@ li.list-group-item {
    color: #aaa;
 }
 
-
+.container-fluid {
+   height: 100vh;
+ }
 
